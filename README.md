@@ -26,20 +26,20 @@ content.
          ---------------------SCREEN SHOTS-------------------
 
 
-  <img scr="https://github.com/amishad7/mirror_wall_flutter/assets/118448879/01b01fc6-0a53-41af-b949-52a0f76fc512" width="200">
+  <img src="https://github.com/amishad7/mirror_wall_flutter/assets/118448879/01b01fc6-0a53-41af-b949-52a0f76fc512" width="200">
 
 
 
 
-  <img scr="https://github.com/amishad7/mirror_wall_flutter/assets/118448879/09c8afc5-fe98-4b84-8729-225728dee806" width="200">
+  <img src="https://github.com/amishad7/mirror_wall_flutter/assets/118448879/09c8afc5-fe98-4b84-8729-225728dee806" width="200">
 
  
   
-  <img scr="https://github.com/amishad7/mirror_wall_flutter/assets/118448879/cb6aa29b-c215-431e-bd50-df5b16317b60" width="200">
-  <img scr="https://github.com/amishad7/mirror_wall_flutter/assets/118448879/022ae109-8204-40f3-9ed4-705f4e9f6493" width="200">
+  <img src="https://github.com/amishad7/mirror_wall_flutter/assets/118448879/cb6aa29b-c215-431e-bd50-df5b16317b60" width="200">
+  <img src="https://github.com/amishad7/mirror_wall_flutter/assets/118448879/022ae109-8204-40f3-9ed4-705f4e9f6493" width="200">
   
-  <img scr="" width="200">
-  ![Screenshot_20240101_151022](https://github.com/amishad7/mirror_wall_flutter/assets/118448879/95d19887-df47-4b08-b693-739ece35051a)
+  <img src="https://github.com/amishad7/mirror_wall_flutter/assets/118448879/95d19887-df47-4b08-b693-739ece35051a" width="200">
+
 
   <img scr="https://github.com/amishad7/mirror_wall_flutter/assets/118448879/912cc2f6-ff18-4eaa-ac1b-dc166e34bfa8" width="200">
  
@@ -47,12 +47,11 @@ content.
   <img scr="https://github.com/amishad7/mirror_wall_flutter/assets/118448879/4d231b51-c0ef-4f3e-a341-bcf6a953adb4" width="200">
 
 
-  <img scr="https://github.com/amishad7/mirror_wall_flutter/assets/118448879/c19f1174-2603-4153-b820-e1e3e7d566ec"
- width="200">
+  <img scr="https://github.com/amishad7/mirror_wall_flutter/assets/118448879/c19f1174-2603-4153-b820-e1e3e7d566ec" width="200">
   
-  // < img scr="" width="200">
+   < img scr="https://github.com/amishad7/mirror_wall_flutter/assets/118448879/9621cb99-56b6-411d-9d08-d061e5b7b4f6" width="200">
   
-  // <img scr="" width="200">
+
 
 
 
