@@ -4,8 +4,6 @@ import 'package:flutter_inappwebview/flutter_inappwebview.dart';
 import 'package:mirror_wall_flutter_project/Modules/views/Homescreen/Proivder/home.dart';
 import 'package:provider/provider.dart';
 
-import '../../../utils/Widgets/DialogBox.dart';
-
 class Mybrowser extends StatefulWidget {
   Mybrowser({super.key});
 
@@ -59,15 +57,24 @@ class _MybrowserState extends State<Mybrowser> {
                               child: Column(
                                 children: [
                                   TextButton(
-                                    onPressed: () {},
+                                    onPressed: () {
+                                      Navigator.pushReplacementNamed(
+                                          context, 'bing');
+                                    },
                                     child: const Text('Bing'),
                                   ),
                                   TextButton(
-                                    onPressed: () {},
+                                    onPressed: () {
+                                      Navigator.pushReplacementNamed(
+                                          context, 'ddGo');
+                                    },
                                     child: const Text('Duck Duck Go'),
                                   ),
                                   TextButton(
-                                    onPressed: () {},
+                                    onPressed: () {
+                                      Navigator.pushReplacementNamed(
+                                          context, 'yahoo');
+                                    },
                                     child: const Text('Yahoo'),
                                   ),
                                 ],
